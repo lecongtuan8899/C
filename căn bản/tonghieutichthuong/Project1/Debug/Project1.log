@@ -1,0 +1,3 @@
+﻿  tinhtoancanban.cpp
+D:\căn bản lập trình\test\Project1\Project1\tinhtoancanban.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> D:\căn bản lập trình\test\Project1\Debug\TinhToanCanBan.exe

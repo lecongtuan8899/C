@@ -1,0 +1,4 @@
+﻿  tinhtienVAT.cpp
+D:\căn bản lập trình\test\tinhtienVAT\tinhtienVAT\tinhtienVAT.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\căn bản lập trình\test\tinhtienVAT\tinhtienVAT\tinhtienVAT.cpp(13,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  tinhtienVAT.vcxproj -> D:\căn bản lập trình\test\tinhtienVAT\Debug\tinhtienVAT.exe

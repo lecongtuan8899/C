@@ -1,0 +1,4 @@
+﻿  TinhChuViVaDienTichHinhTron.cpp
+D:\căn bản lập trình\test\TinhChuVivaDienTichHinhTron\TinhChuVivaDienTichHinhTron\TinhChuViVaDienTichHinhTron.cpp(10,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\căn bản lập trình\test\TinhChuVivaDienTichHinhTron\TinhChuVivaDienTichHinhTron\TinhChuViVaDienTichHinhTron.cpp(11,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TinhChuVivaDienTichHinhTron.vcxproj -> D:\căn bản lập trình\test\TinhChuVivaDienTichHinhTron\Debug\TinhChuVivaDienTichHinhTron.exe
