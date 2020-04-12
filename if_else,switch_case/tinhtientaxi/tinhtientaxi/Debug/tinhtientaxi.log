@@ -1,0 +1,3 @@
+﻿  tinhtientaxi.cpp
+D:\căn bản lập trình\if_else,switch_case\tinhtientaxi\tinhtientaxi\tinhtientaxi.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  tinhtientaxi.vcxproj -> D:\căn bản lập trình\if_else,switch_case\tinhtientaxi\Debug\tinhtientaxi.exe

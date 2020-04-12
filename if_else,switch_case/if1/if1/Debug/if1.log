@@ -1,0 +1,3 @@
+﻿  if1.cpp
+D:\căn bản lập trình\test 2\if1\if1\if1.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  if1.vcxproj -> D:\căn bản lập trình\test 2\if1\Debug\if1.exe

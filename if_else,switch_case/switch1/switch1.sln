@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "switch1", "switch1\switch1.vcxproj", "{1D750663-EE34-48DB-AEF0-B136C4D63335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Debug|x64.ActiveCfg = Debug|x64
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Debug|x64.Build.0 = Debug|x64
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Debug|x86.Build.0 = Debug|Win32
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Release|x64.ActiveCfg = Release|x64
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Release|x64.Build.0 = Release|x64
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Release|x86.ActiveCfg = Release|Win32
+		{1D750663-EE34-48DB-AEF0-B136C4D63335}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D81829-F1D7-4A53-AB63-3E98F7D6725B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  min.cpp
+D:\căn bản lập trình\test 2\min\min\min.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  min.vcxproj -> D:\căn bản lập trình\test 2\min\Debug\min.exe
